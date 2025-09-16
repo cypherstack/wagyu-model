@@ -1,5 +1,5 @@
 [package]
-name = "cs_mwc-wagyu-model"
+name = "mwc-wagyu-model"
 version = "0.6.3"
 authors = [
     "Collin Chin",
@@ -11,7 +11,7 @@ description = "A generic model for cryptocurrency wallets"
 homepage = "https://github.com/mwcproject/wagyu-model"
 repository = "https://github.com/mwcproject/wagyu-model"
 categories = ["command-line-utilities"]
-keywords = ["bitcoin", "blockchain", "cs_mwc", "ethereum", "no_std"]
+keywords = ["bitcoin", "blockchain", "mwc", "ethereum", "no_std"]
 readme = "README.md"
 license = "MIT/Apache-2.0"
 edition = "2018"
