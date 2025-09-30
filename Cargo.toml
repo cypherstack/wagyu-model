@@ -1,5 +1,5 @@
 [package]
-name = "mwc-wagyu-model"
+name = "wagyu-model"
 version = "0.6.3"
 authors = [
     "Collin Chin",
